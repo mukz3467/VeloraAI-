@@ -1,0 +1,9 @@
+{
+  "name": "Velora AI – Intelligent Message Platform & Templates",
+  "description": "Next-generation AI message generator and massive message templates library for personal, business, romantic, and social occasions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
